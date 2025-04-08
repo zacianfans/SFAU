@@ -1,0 +1,41 @@
+Training Batches: 100%|██████████| 68/68 [00:27<00:00,  2.52it/s]
+Testing Batches: 100%|██████████| 7/7 [00:02<00:00,  3.43it/s]/s]
+Epoch: 1/500, PanNet_SANM Train Loss: 0.075899
+Training Batches: 100%|██████████| 68/68 [00:11<00:00,  5.68it/s]
+Epoch: 1/500, PanNet_SANM Test Loss: 0.049623
+New best model saved at epoch 1 with test loss: 0.049623
+Testing Batches: 100%|██████████| 7/7 [00:00<00:00, 10.17it/s]/s]
+Epoch: 2/500, PanNet_SANM Train Loss: 0.044690
+Training Batches: 100%|██████████| 68/68 [00:11<00:00,  5.73it/s]
+Epoch: 2/500, PanNet_SANM Test Loss: 0.036887
+New best model saved at epoch 2 with test loss: 0.036887
+Testing Batches: 100%|██████████| 7/7 [00:00<00:00, 10.25it/s]/s]
+Epoch: 3/500, PanNet_SANM Train Loss: 0.034864
+Training Batches: 100%|██████████| 68/68 [00:11<00:00,  5.73it/s]
+Epoch: 3/500, PanNet_SANM Test Loss: 0.031018
+New best model saved at epoch 3 with test loss: 0.031018
+Testing Batches: 100%|██████████| 7/7 [00:00<00:00, 10.12it/s]/s]
+Epoch: 4/500, PanNet_SANM Train Loss: 0.031278
+Training Batches: 100%|██████████| 68/68 [00:11<00:00,  5.71it/s]
+Epoch: 4/500, PanNet_SANM Test Loss: 0.030337
+New best model saved at epoch 4 with test loss: 0.030337
+Testing Batches: 100%|██████████| 7/7 [00:00<00:00, 10.01it/s]/s]
+Epoch: 5/500, PanNet_SANM Train Loss: 0.029198
+Training Batches: 100%|██████████| 68/68 [00:11<00:00,  5.72it/s]
+Epoch: 5/500, PanNet_SANM Test Loss: 0.027573
+New best model saved at epoch 5 with test loss: 0.027573
+Testing Batches: 100%|██████████| 7/7 [00:00<00:00, 10.09it/s]/s]
+Epoch: 6/500, PanNet_SANM Train Loss: 0.028000
+Training Batches: 100%|██████████| 68/68 [00:11<00:00,  5.73it/s]
+Epoch: 6/500, PanNet_SANM Test Loss: 0.027514
+New best model saved at epoch 6 with test loss: 0.027514
+Testing Batches: 100%|██████████| 7/7 [00:00<00:00, 10.11it/s]/s]
+Epoch: 7/500, PanNet_SANM Train Loss: 0.027552
+Training Batches:  91%|█████████ | 62/68 [00:11<00:01,  5.55it/s]
+Epoch: 7/500, PanNet_SANM Test Loss: 0.026244
+New best model saved at epoch 7 with test loss: 0.026244
+Epochs:   1%|▏         | 7/500 [01:55<2:15:56, 16.54s/it].56it/s]
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\代码\train_pannet_model.py", line 139, in <module>
+    g_loss += loss_1.item()
+KeyboardInterrupt

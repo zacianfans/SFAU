@@ -1,0 +1,15 @@
+{
+    "device": "cuda:0",
+    "epochs": 500,
+    "batch_size": 32,
+    "learning_rate": 0.0005,
+    "weight_decay": 1e-05,
+    "train_dataset": "./data/WV3_data\\train128/ms",
+    "test_dataset": "./data/WV3_data\\test128/ms",
+    "model": "PanNet_SANM",
+    "timestamp": "20241222-212603",
+    "random_seed": 42,
+    "loss": "L1",
+    "lamda": 0,
+    "k_up": 5
+}
